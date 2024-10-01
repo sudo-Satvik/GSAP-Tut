@@ -16,3 +16,7 @@ This repository is dedicated to my learning journey with **GSAP** (GreenSock Ani
 - Build engaging and visually appealing animations.
 - Implement animations in real-world web projects.
 
+## Important
+
+- If you want to check out my progress, you can see my repository.
+- Otherwise you can go in the link if you want to check output: 
