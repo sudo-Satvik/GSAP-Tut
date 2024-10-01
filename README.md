@@ -19,4 +19,4 @@ This repository is dedicated to my learning journey with **GSAP** (GreenSock Ani
 ## Important
 
 - If you want to check out my progress, you can see my repository.
-- Otherwise you can go in the link if you want to check output: 
+- Otherwise you can go in the link if you want to check output: https://sudo-satvik.github.io/GSAP-Tut/
