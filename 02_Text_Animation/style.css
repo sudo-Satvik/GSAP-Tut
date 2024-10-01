@@ -2,24 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: gilroy;
 }
 html, 
 body{
+    font-family: "Ubuntu", sans-serif;
     height: 100%;
     width: 100%;
     background-color: #111;
-}
-
-#box1, #box2{
-    height: 300px;
-    width: 300px;
-}
-
-#box1{
-    background-color: crimson;
-}
-
-#box2{
-    background-color: rgb(20, 73, 220);
+    color: #fff;
 }

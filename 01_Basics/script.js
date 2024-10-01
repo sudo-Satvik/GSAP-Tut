@@ -21,6 +21,5 @@ gsap.from("#box2", {
     rotate: 360,
     backgroundColor: 'green',
     borderRadius: "50%",
-    repeat: -1,
-    ease: "bounce.out"
+    repeat: -1,         // infinite repeatation
 })
