@@ -1,7 +1,7 @@
 gsap.from("#page3 h1", {
-    opacity:100,
+    opacity: 0,
     duration: 1,
-    x: 50,
+    y: 50,
     scrollTrigger: {
         trigger: "#page3 h1",
         scroller: "body",
@@ -25,13 +25,13 @@ gsap.from("#page3 h2", {
 // jab bhi pin use krenge, hum scrollTrigger object me parent ko trigger krenge
 
 gsap.to("#page4 p", {
-    transform: 'translateX(-100%)',
+    transform: 'translateX(-60%)',
     // duration: 3,
     scrollTrigger: {
         trigger: "#page4",
         scroller: "body",
         markers: true,
-        scrub: 3,
+        scrub: 1,
         pin: true,
         start: "top 0%"
     }
